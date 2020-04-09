@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AnaGuerreroExamen</string>
+    <string name="file_provider_authority">com.example.anaguerreroexamen</string>
+    <string name="perfil">UserPerfil</string>
+
+    <string name="user_name">Nombre de usuario</string>
+    <string name="name">Nombre completo</string>
+    <string name="biography">Biografía</string>
+    <string name="take_picture">Tomar foto</string>
+    <string name="register">Registrarse</string>
+    <string name="gallery">Galeria</string>
+    <string name="music">Reproductor de música</string>
+</resources>
